@@ -2,6 +2,8 @@
 
 > An Awesome List of Web Map Applications built with Mapbox tools and services.  Web Maps included in this list should "stand on their own" as full-featured, publicly-accessible production web applications (not demos or examples)
 
+> The intent of the list is to provide examples of fully-built web mapping applications, demonstrating good UI/UX and design practices, interactions, animations, markers, menus, popups, sidebars, etc.
+
 ## Data Explorers
 
 - [Heavy.ai US Census Dot Density Dashboard](https://census2-demo.heavy.ai/omnisci/dashboard/26?tab=-Mmd0tXBrEPn33vRyHK1)
@@ -10,7 +12,7 @@
 
 - [NYC 311 Reports](https://nyc311.app): Create 311 reports for custom areas of interest in New York City
 - [NYC ZoLa](https://zola.planning.nyc.gov/): Explore Zoning and Land Use for New York City properties
-- [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/)
+- [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/): Up to date data on active wildfires in the U.S.
 
 ## Transit
 
