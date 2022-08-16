@@ -1,6 +1,6 @@
 # Awesome Mapbox Web Maps [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-> An Awesome List of Web Map Applications built with Mapbox tools and services.  Web Maps included in this list should "stand on their own" as full-featured production web applications (not demos or examples)
+> An Awesome List of Web Map Applications built with Mapbox tools and services.  Web Maps included in this list should "stand on their own" as full-featured, publicly-accessible production web applications (not demos or examples)
 
 ## Data Explorers
 
@@ -9,6 +9,7 @@
 ## Government/Civic
 
 - [NYC 311 Reports](https://nyc311.app): Create 311 reports for custom areas of interest in New York City
+- [NYC ZoLa](https://zola.planning.nyc.gov/): Explore Zoning and Land Use for New York City properties
 
 ## Transit
 
