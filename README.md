@@ -10,6 +10,7 @@
 
 - [NYC 311 Reports](https://nyc311.app): Create 311 reports for custom areas of interest in New York City
 - [NYC ZoLa](https://zola.planning.nyc.gov/): Explore Zoning and Land Use for New York City properties
+- [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/)
 
 ## Transit
 
