@@ -13,6 +13,7 @@
 - [NYC 311 Reports](https://nyc311.app): Create 311 reports for custom areas of interest in New York City
 - [NYC ZoLa](https://zola.planning.nyc.gov/): Explore Zoning and Land Use for New York City properties
 - [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/): Up to date data on active wildfires in the U.S.
+- [Living New Deal Map](https://livingnewdeal.org/map/): Explore projects that were part of the New Deal in the 1930's U.S.
 
 ## Transit
 
