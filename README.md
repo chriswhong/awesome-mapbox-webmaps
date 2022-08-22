@@ -19,6 +19,10 @@
 
 - [Mini Tokyo 3D](https://minitokyo3d.com/): Explore real-time train locations in the Tokyo transit system
 
+## Natural Environment
+
+- [MacroStrat](https://macrostrat.org/map/#x=16&y=23&z=2): Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database
+
 ## Miscellaneous
 
 
