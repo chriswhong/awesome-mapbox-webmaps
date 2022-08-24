@@ -14,6 +14,7 @@
 - [NYC ZoLa](https://zola.planning.nyc.gov/): Explore Zoning and Land Use for New York City properties
 - [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/): Up to date data on active wildfires in the U.S.
 - [Living New Deal Map](https://livingnewdeal.org/map/): Explore projects that were part of the New Deal in the 1930's U.S.
+- [Sidewalk Widths NYC](https://www.sidewalkwidths.nyc/#13/40.714/-74.005): Visualize every sidewalk in New York City, showing how social distancing was difficult or impossible during the early days of the Covid-19 pandemic.
 
 ## Transit
 
