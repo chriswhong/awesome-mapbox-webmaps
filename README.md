@@ -27,6 +27,10 @@
 
 - [OneSoil.ai](https://map.onesoil.ai/): Detailed information on the state of fields in 59 countries around the world
 
+## Storytelling/News
+
+- [Rough Seas: Tracking Maritime Tensions with Iran](https://iranmaritime.crisisgroup.org/): A scrollytelling map highlighting maritime events affecting the waters around Iran.
+
 ## Miscellaneous
 
 - [A People Map of the U.S.](https://pudding.cool/2019/05/people-map/): City names are replaced by their most Wikipedia’ed resident: people born in, lived in, or connected to a place.
