@@ -23,6 +23,10 @@
 
 - [MacroStrat](https://macrostrat.org/map/#x=16&y=23&z=2): Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database
 
+## Travel/Tourism
+
+- [3D Inca Trail Tour](https://incatrail.vacations/3dtour/): Navigate through the stops along the Inca Trail on a 3D map.
+
 ## Agriculture
 
 - [OneSoil.ai](https://map.onesoil.ai/): Detailed information on the state of fields in 59 countries around the world
