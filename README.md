@@ -4,10 +4,6 @@
 
 > The intent of the list is to provide examples of fully-built web mapping applications, demonstrating good UI/UX and design practices, interactions, animations, markers, menus, popups, sidebars, etc.
 
-## Data Explorers
-
-- [Heavy.ai US Census Dot Density Dashboard](https://census2-demo.heavy.ai/omnisci/dashboard/26?tab=-Mmd0tXBrEPn33vRyHK1)
-
 ## Government/Civic
 
 - [NYC 311 Reports](https://nyc311.app): Create 311 reports for custom areas of interest in New York City
@@ -15,6 +11,8 @@
 - [Western Fire Chiefs Association Fire Map](https://fire-map.wfca.com/): Up to date data on active wildfires in the U.S.
 - [Living New Deal Map](https://livingnewdeal.org/map/): Explore projects that were part of the New Deal in the 1930's U.S.
 - [Sidewalk Widths NYC](https://www.sidewalkwidths.nyc/#13/40.714/-74.005): Visualize every sidewalk in New York City, showing how social distancing was difficult or impossible during the early days of the Covid-19 pandemic.
+- [Heavy.ai US Census Dot Density Dashboard](https://census2-demo.heavy.ai/omnisci/dashboard/26?tab=-Mmd0tXBrEPn33vRyHK1)
+
 
 ## Transit
 
@@ -30,6 +28,8 @@
 - [OneSoil.ai](https://map.onesoil.ai/): Detailed information on the state of fields in 59 countries around the world
 
 ## Miscellaneous
+
+- [A People Map of the U.S.](https://pudding.cool/2019/05/people-map/): City names are replaced by their most Wikipedia’ed resident: people born in, lived in, or connected to a place.
 
 
 **Related lists**
