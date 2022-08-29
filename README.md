@@ -27,6 +27,10 @@
 
 - [3D Inca Trail Tour](https://incatrail.vacations/3dtour/): Navigate through the stops along the Inca Trail on a 3D map.
 
+## Retail
+
+- [NYC Vintage Map](https://nycvintagemap.com/): A curated map of vintage clothing stores in New York City.
+
 ## Agriculture
 
 - [OneSoil.ai](https://map.onesoil.ai/): Detailed information on the state of fields in 59 countries around the world
