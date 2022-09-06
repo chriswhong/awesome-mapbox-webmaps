@@ -31,6 +31,10 @@
 
 - [NYC Vintage Map](https://nycvintagemap.com/): A curated map of vintage clothing stores in New York City.
 
+## Sports
+
+- [realtimemap.jp](https://realtimemap.jp/): Companion map for a cycling event in Japan.
+
 ## Agriculture
 
 - [OneSoil.ai](https://map.onesoil.ai/): Detailed information on the state of fields in 59 countries around the world
