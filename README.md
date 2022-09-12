@@ -50,4 +50,7 @@
 
 
 **Related lists**
-- [Awesome Mapbox External Developer Resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources) - Third-party blogs, tutorials, codepens, videos, tools, libraries, and data that are useful to Mapbox Developers
+- [awesome-geojson](https://github.com/tmcw/awesome-geojson) - GeoJSON utilities that will make your life easier.
+- [awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - The Mapbox Vector Tile spec is an efficient encoding for map data into vector tiles that can be rendered dynamically.
+- [awesome-mapboxgl-demos](https://github.com/chriswhong/awesome-mapboxgl-demos) - A List of Web Map Demos built with Mapbox tools and services. 
+- [awesome-mapbox-external-developer-resources](https://github.com/chriswhong/awesome-mapbox-external-developer-resources) - An awesome list of third-party developer resources to help you work with the Mapbox suite of location-based services, APIs, ADKs, libraries, and data
