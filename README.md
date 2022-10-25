@@ -27,7 +27,7 @@
 ## Travel/Tourism
 
 - [3D Inca Trail Tour](https://incatrail.vacations/3dtour/): Navigate through the stops along the Inca Trail on a 3D map.
-= [](https://clem.travelmap.net/global-map)
+- [TravelMap](https://clem.travelmap.net/global-map): Visualize travel itineraries on an interactive map.
 
 ## Retail
 
