@@ -49,6 +49,7 @@
 ## Miscellaneous
 
 - [A People Map of the U.S.](https://pudding.cool/2019/05/people-map/): City names are replaced by their most Wikipedia’ed resident: people born in, lived in, or connected to a place.
+- [Wiki Atlas](https://www.wiki-atlas.org/): Displays point locations for Wikipedia Articles on a global map.
 
 
 **Related lists**
