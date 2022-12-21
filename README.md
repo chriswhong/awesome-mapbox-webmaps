@@ -23,6 +23,7 @@
 ## Natural Environment
 
 - [MacroStrat](https://macrostrat.org/map/#x=16&y=23&z=2): Macrostrat's geologic map system integrates over 290 bedrock geologic maps from around the world into a single, multiscale database
+- [Snowfall](https://willymaps.github.io/snowfall/): A visual storytelling map about notable snowfall events in the U.S. in the early winter of 2023
 
 ## Travel/Tourism
 
