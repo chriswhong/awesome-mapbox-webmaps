@@ -19,6 +19,7 @@
 - [Mini Tokyo 3D](https://minitokyo3d.com/): Explore real-time train locations in the Tokyo transit system
 - [ChronoTrains](https://www.chronotrains.com/): Visualize travel distances from train stations in Europe
 - [MTA Radar](https://radar.mta.info/): Real-time train locations for New York City Commuter Railroads
+- [How well do you know SF streets?](https://carvin.github.io/sf-street-names/): Game that tests your knowledge of street names in San Francisco 
 
 ## Natural Environment
 
