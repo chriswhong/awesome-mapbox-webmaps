@@ -46,7 +46,8 @@
 ## Storytelling/News
 
 - [Rough Seas: Tracking Maritime Tensions with Iran](https://iranmaritime.crisisgroup.org/): A scrollytelling map highlighting maritime events affecting the waters around Iran.
-- [Can Europe keep the lights on?](https://ig.ft.com/electricity-sharing/): Financial Times - Why sharing electricity will be crucial in the coldest months
+- [Can Europe keep the lights on?](https://ig.ft.com/electricity-sharing/): Financial Times - Why sharing electricity will be crucial in the coldest months.
+- [Mobility and the Brisbane Olympics](https://brisbane2032mobility.smashdelta.com/): Smashdelta - Exploring mobility in Brisbane ahead of the 2032 Olympic Games.
 
 ## Miscellaneous
 
